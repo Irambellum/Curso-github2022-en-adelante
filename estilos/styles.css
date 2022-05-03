@@ -11,4 +11,5 @@ body{
 .container .post {
     border-radius: 12px;
     background-color: red;
+    font-family: Georgia;
 }
