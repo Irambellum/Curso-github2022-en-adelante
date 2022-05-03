@@ -1,15 +1,21 @@
 body{
-    color: white;
+    color: black;
     text-align: center;
     font-family: Arial;
 }
 
 .container{
     width: 100%;
+    border: 30px black;
+}
+
+.container .cabecera {
+    background-color: aqua;
+    
 }
 
 .container .post {
     border-radius: 12px;
     background-color: red;
-    font-family: Georgia;
+    color: white;
 }
