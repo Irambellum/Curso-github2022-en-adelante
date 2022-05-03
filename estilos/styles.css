@@ -1,11 +1,15 @@
 body{
-    color: white;
+    color: black;
     text-align: center;
     font-family: Arial;
 }
 
 .container{
     width: 100%;
+}
+
+.container .cabecera {
+    background-color: aqua;
 }
 
 .container .post {
