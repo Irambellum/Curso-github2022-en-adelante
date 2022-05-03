@@ -1,10 +1,14 @@
 body{
-    color: green;
+    color: white;
     text-align: center;
     font-family: Arial;
 }
 
 .container{
     width: 100%;
-    border: 10px black;
+}
+
+.container .post {
+    border-radius: 12px;
+    background-color: red;
 }
