@@ -6,13 +6,16 @@ body{
 
 .container{
     width: 100%;
+    border: 30px black;
 }
 
 .container .cabecera {
     background-color: aqua;
+    
 }
 
 .container .post {
     border-radius: 12px;
     background-color: red;
+    color: white;
 }
